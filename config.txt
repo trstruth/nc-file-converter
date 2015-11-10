@@ -1,0 +1,2 @@
+inputDir=C:/Users/Tristan/Desktop/INPUT HERE
+outputDir=C:/Users/Tristan/Desktop/OUTPUT HERE
